@@ -1,9 +1,17 @@
 {
   "name": "dsh-task-complete-notice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plays a sound and shows a Windows desktop notification when a DeepSeek Harness turn finishes, with the workspace name, the last reply and the elapsed time.",
   "license": "MIT",
   "author": "John Xiao",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northsoulxiao/dsh-task-complete-notice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/northsoulxiao/dsh-task-complete-notice/issues"
+  },
+  "homepage": "https://github.com/northsoulxiao/dsh-task-complete-notice#readme",
   "type": "module",
   "main": "lib/index.mjs",
   "icon": "./icon.svg",
