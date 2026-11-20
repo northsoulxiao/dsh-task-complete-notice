@@ -1,0 +1,6 @@
+<svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Task completion notice">
+  <circle cx="14.2" cy="18.6" r="8.4" fill="#2E9E68"/>
+  <path d="M10.4 18.8 L13.4 21.8 L18.6 15.8" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25.8 14.2 a6.2 6.2 0 0 1 0 8.8" fill="none" stroke="#2E9E68" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M29.2 11.4 a10.4 10.4 0 0 1 0 14.4" fill="none" stroke="#2E9E68" stroke-width="1.8" stroke-linecap="round" opacity="0.55"/>
+</svg>

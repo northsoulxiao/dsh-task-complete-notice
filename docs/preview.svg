@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="A Windows desktop notification announcing a finished task, next to a speaker and a check badge">
+  <rect x="10" y="10" width="620" height="280" rx="20" fill="#EAF0F7" stroke="#CBD8E6" stroke-width="2"/>
+  <rect x="10" y="248" width="620" height="42" fill="#DDE7F2" opacity="0.75"/>
+  <rect x="62" y="64" width="340" height="176" rx="16" fill="#B9C9DA" opacity="0.32"/>
+  <rect x="56" y="56" width="340" height="176" rx="16" fill="#FFFFFF" stroke="#D3DEE9" stroke-width="2"/>
+  <circle cx="92" cy="92" r="16" fill="#2E9E68"/>
+  <path d="M84.5 92.5 L90 98 L100 86" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="120" y="82" width="150" height="13" rx="6.5" fill="#39424E"/>
+  <rect x="120" y="103" width="88" height="10" rx="5" fill="#A5B2C1"/>
+  <rect x="80" y="140" width="256" height="11" rx="5.5" fill="#C7D2DE"/>
+  <rect x="80" y="160" width="210" height="11" rx="5.5" fill="#C7D2DE"/>
+  <rect x="80" y="180" width="140" height="11" rx="5.5" fill="#DFE7F0"/>
+  <circle cx="88" cy="208" r="4" fill="#2E9E68"/>
+  <rect x="98" y="203" width="72" height="9" rx="4.5" fill="#B9C6D4"/>
+  <path d="M452 132 L472 132 L500 108 L500 196 L472 172 L452 172 Z" fill="#2E9E68"/>
+  <path d="M516 126 A24 24 0 0 1 516 178" fill="none" stroke="#2E9E68" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+  <path d="M532 112 A40 40 0 0 1 532 192" fill="none" stroke="#2E9E68" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+  <circle cx="392" cy="228" r="26" fill="#2E9E68"/>
+  <path d="M379 228 L388 238 L405 218" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="560" cy="232" r="24" fill="#FFFFFF" stroke="#CBD8E6" stroke-width="2"/>
+  <path d="M560 219 L560 233 L570 239" fill="none" stroke="#E06C4F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

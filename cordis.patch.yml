@@ -1,0 +1,21 @@
+- insert:
+    - id: task-complete-notice
+      # 必须与 package.json 的 name 完全一致 —— loader 用这个名字 import 本包。
+      name: "dsh-task-complete-notice"
+      # 下面是默认值，可按需修改后重启 DSH 生效（不写则用代码里的默认值）。
+      config:
+        enabled: true
+        # 'default' 系统提示音 / 'none' 静音 / 绝对路径播放自定义 WAV
+        sound: default
+        # 'toast' 桌面通知（右下角，不抢焦点） / 'window' 右下角小窗（更醒目）
+        style: toast
+        notifyOnError: true
+        skipSubagents: true
+        minTurnDurationMs: 0
+        maxBodyChars: 140
+        title: 任务完成
+        errorTitle: 任务已结束（有异常）
+        # 通知顶部显示的「发送方」= 这个 AppUserModelID（AUMID）。
+        # com.deepseek.dsh 是 DSH 桌面版开始菜单快捷方式注册的 AUMID → 显示「DeepSeek Harness」。
+        # 想换名字就换成本机已注册的其它 AUMID；留空则回落到上面那个默认值。
+        appId: com.deepseek.dsh

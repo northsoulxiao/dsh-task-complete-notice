@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Task completion notice",
+    "description": "Plays a sound and shows a Windows desktop notification when a turn finishes: the title carries the workspace folder, the body the last reply and the elapsed time. Subagent turns stay silent by default, and the notification can open as a corner window instead of a toast. Sound, style, wording, minimum turn duration and the notification sender are configurable. Windows 10/11 only; nothing is sent anywhere.",
+    "detail": "docs/DETAIL.md"
+  }
+}
